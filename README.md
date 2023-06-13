@@ -19,4 +19,4 @@ You can refer to Exercise 4.3 if you need specific instructions on how to re-cre
    - CLIENT_SECRET (get it from your Google Calendar API credentials file)
    - CALENDAR_ID (set its value to this string: "fullstackwebdev@careerfoundry.com")
 
-**Note that this demo repo contains the solution for task the task for Exercise 4.4**
+**Note that this demo repo contains a sample solution for the Exercise 4.4 task**
